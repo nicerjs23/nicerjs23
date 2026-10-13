@@ -65,7 +65,7 @@
 </details>
 
 <details>
-<summary><b>🌏 K-Sales Hunter</b> · 2026 한이음 드림업, 공모전 장려상 후보</summary>
+<summary><b>🌏 K-Sales Hunter</b> · 2026 한이음 드림업 </summary>
 <br />
 
 - LangGraph로 역할별 에이전트 7개가 협업하는 멀티 에이전트 구조 설계
