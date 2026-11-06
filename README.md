@@ -78,10 +78,6 @@
 
 ## 📊 Activity
 
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=nicerjs23&hide_border=true" />
-</p>
-
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <picture>
