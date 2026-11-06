@@ -79,7 +79,6 @@
 ## 📊 Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nicerjs23&show_icons=true&count_private=true&hide_border=true" />
   <img height="165" src="https://streak-stats.demolab.com?user=nicerjs23&hide_border=true" />
 </p>
 
